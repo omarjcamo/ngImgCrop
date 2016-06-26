@@ -18,6 +18,7 @@
   "description": "Image crop directive for AngularJS add rectangle",
   "license": "MIT",
   "homepage": "https://github.com/marciovsena/ngImgCrop/",
+  "main": "./compile/minified/ng-img-crop.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/marciovsena/ngImgCrop/"
